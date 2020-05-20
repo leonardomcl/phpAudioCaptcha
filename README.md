@@ -9,4 +9,4 @@
   
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/leonardomcl/phpAudioCaptcha/master/captcha.png" height="600" with="800" alt="preview"/>
+<img src="https://raw.githubusercontent.com/leonardomcl/phpAudioCaptcha/master/captcha.png" height="600" with="800" alt="preview" border="0"/>
